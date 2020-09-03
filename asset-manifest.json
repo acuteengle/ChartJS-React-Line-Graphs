@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ChartJSReactRentGraphs/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/ChartJSReactRentGraphs/static/js/main.81471fda.chunk.js",
+    "main.js.map": "/ChartJSReactRentGraphs/static/js/main.81471fda.chunk.js.map",
+    "runtime-main.js": "/ChartJSReactRentGraphs/static/js/runtime-main.a1c8c56c.js",
+    "runtime-main.js.map": "/ChartJSReactRentGraphs/static/js/runtime-main.a1c8c56c.js.map",
+    "static/css/2.11829350.chunk.css": "/ChartJSReactRentGraphs/static/css/2.11829350.chunk.css",
+    "static/js/2.93b70d80.chunk.js": "/ChartJSReactRentGraphs/static/js/2.93b70d80.chunk.js",
+    "static/js/2.93b70d80.chunk.js.map": "/ChartJSReactRentGraphs/static/js/2.93b70d80.chunk.js.map",
+    "index.html": "/ChartJSReactRentGraphs/index.html",
+    "precache-manifest.ad923ad99a1af53576ee1096fd6ef025.js": "/ChartJSReactRentGraphs/precache-manifest.ad923ad99a1af53576ee1096fd6ef025.js",
+    "service-worker.js": "/ChartJSReactRentGraphs/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/ChartJSReactRentGraphs/static/css/2.11829350.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/ChartJSReactRentGraphs/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.93b70d80.chunk.js.LICENSE.txt": "/ChartJSReactRentGraphs/static/js/2.93b70d80.chunk.js.LICENSE.txt",
+    "static/media/apartment_rent.csv": "/ChartJSReactRentGraphs/static/media/apartment_rent.e2e30bc3.csv"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1c8c56c.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.93b70d80.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.81471fda.chunk.js"
+  ]
+}
