@@ -1,4 +1,4 @@
-#ChartJSReactRentGraphs
+# ChartJSReactRentGraphs
 
 This project uses a csv file with data on the average rent prices for various size apartments (studio, 1br, 2br, 3br, 4br) in various states. I used papaparse to import the data from the csv file
 
